@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on projects that have to do with science, mathematics, civil engineering.
 - 📫 How to reach me [Twitter](https://twitter.com/RodryJmnz)
 
+-----------------------------Español------------------------------------------
 - 👋 Hola, me llamo @Rodrigo-A-Jimenez
 
 - 👀 Yo estoy interesado en programación y en proyectos OpenSource
